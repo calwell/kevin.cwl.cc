@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Blogging Kevin</title><link href="http://calwell.github.io/kevin.cwl.cc/" rel="alternate"></link><link href="http://calwell.github.io/kevin.cwl.cc/feeds/articles.atom.xml" rel="self"></link><id>http://calwell.github.io/kevin.cwl.cc/</id><updated>2013-12-28T10:58:00-05:00</updated><entry><title>Test Article Number 3</title><link href="http://calwell.github.io/kevin.cwl.cc/articles/test-article-3/" rel="alternate"></link><updated>2013-12-28T10:58:00-05:00</updated><author><name>Kevin Costain</name></author><id>tag:calwell.github.io/kevin.cwl.cc,2013-12-28:articles/test-article-3/</id><summary type="html">&lt;p&gt;Test&lt;/p&gt;
+&lt;div class="section" id="test-title"&gt;
+&lt;h2&gt;Test Title&lt;/h2&gt;
+&lt;p&gt;sddffsdfsdf
+sdfsdfsd
+fdsfsdfs
+l&lt;/p&gt;
+&lt;/div&gt;
+</summary><category term="wordpress"></category></entry><entry><title>Test Article Number 2</title><link href="http://calwell.github.io/kevin.cwl.cc/articles/test-article-2/" rel="alternate"></link><updated>2013-12-27T10:58:00-05:00</updated><author><name>Kevin Costain</name></author><id>tag:calwell.github.io/kevin.cwl.cc,2013-12-27:articles/test-article-2/</id><summary type="html">&lt;p&gt;Test&lt;/p&gt;
+&lt;div class="section" id="tite"&gt;
+&lt;h2&gt;Tite&lt;/h2&gt;
+&lt;p&gt;THajdkaldk
+alkdlaskd
+laksd
+ka
+sdka
+lk
+lk
+l&lt;/p&gt;
+&lt;/div&gt;
+</summary><category term="wordpress"></category></entry></feed>
